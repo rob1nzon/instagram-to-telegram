@@ -1,6 +1,6 @@
 # Instagram posts to Telegram channel
 Send your latest Instagram posts to your Telegram channel with instagrapi and a Telegram bot.
-kek
+
 ## Features
 - Shares pictures, albums and videos
 - Optional login to pull private posts
